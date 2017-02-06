@@ -60,7 +60,7 @@ public class Original{
             	System.exit(1);
             } 
         	System.out.print("Please Enter Degree: ");        
-                	
+            // this a comment for checking release  	
         } 
                                               
     }
